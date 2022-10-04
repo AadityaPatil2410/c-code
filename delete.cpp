@@ -286,6 +286,7 @@ void round_robin(processes ready_queue[],processes P[], int n)
     printf("\n\nAverage Waiting Time is : %f / %d = %f ",total_waiting,n,avg_waiting);
     printf("\nAverage Turn Around Time is : %f / %d = %f ",total_tat,n,avg_tat);
     printf("\n\n");
+    printf("\n\n\n\n\n\n");
 
 }
 
